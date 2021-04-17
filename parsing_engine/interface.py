@@ -70,7 +70,7 @@ def scrap_main_page(account,save_dir,headless=False,page_info="main",login=False
         write_mode="a"
     data=[]
     with open(csv_logfile_name,write_mode,newline='',encoding='utf-8-sig') as f:
-        header = ['UserScreenName', 'UserName', 'Timestamp', 'Text', 'Emojis', 'Comments', 'Likes', 'Retweets','Image link', 'Video link', 'Tweet URL']
+        header = ['Timestamp', 'Text']
         writer = csv.writer(f)
         if not resume:
             writer.writerow(header)
@@ -88,16 +88,6 @@ def scrap_main_page(account,save_dir,headless=False,page_info="main",login=False
             driver=driver_scroling(driver, 900)
             if get_current_Y_offset(driver)==current_position:
                 keep_scrolling=False
-    data = pd.DataFrame(data, columns=['UserScreenName', 'UserName', 'Timestamp', 'Text', 'Emojis', 'Comments', 'Likes','Retweets', 'Image link', 'Video link', 'Tweet URL'])
-
-    # save_images
-    if save_image:
-        download_images(data, save_dir, logger)
-
-    # save_videos
-    if save_video:
-        download_videos(data, save_dir, logger)
-
     driver.close()
 
 
@@ -121,7 +111,7 @@ def scrap_between_date(account,start_date,end_date,save_dir,headless=False,login
     tweet_ids = set()
     data = []
     with open(csv_logfile_name,'w',newline='',encoding='utf-8-sig') as f:
-        header = ['UserScreenName', 'UserName', 'Timestamp', 'Text', 'Emojis', 'Comments', 'Likes', 'Retweets','Image link', 'Video link', 'Tweet URL']
+        header = ['Timestamp', 'Text']
         writer = csv.writer(f)
         writer.writerow(header)
 
@@ -133,19 +123,8 @@ def scrap_between_date(account,start_date,end_date,save_dir,headless=False,login
             sleep(random.uniform(0.5,2.1))
             current_position = get_current_Y_offset(driver)
             driver, data, writer, tweet_ids= get_page_tweets(driver,account, data, writer, tweet_ids,logger)
-            driver = driver_scroling(driver, 700)
+            driver = driver_scroling(driver, 900)
             if get_current_Y_offset(driver) == current_position:
                 keep_scrolling = False
-
-
-    data = pd.DataFrame(data, columns=['UserScreenName', 'UserName', 'Timestamp', 'Text', 'Emojis', 'Comments', 'Likes','Retweets', 'Image link', 'Video link', 'Tweet URL'])
-
-    # save_images
-    if save_image:
-        download_images(data, save_dir,logger)
-
-    # save_videos
-    if save_video:
-        download_videos(data, save_dir,logger)
 
     driver.close()
