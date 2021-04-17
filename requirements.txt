@@ -1,9 +1,11 @@
-requests
-m3u8
+chromedriver-autoinstaller
 colorama
-selenium
+jieba
+m3u8
+opencc
 pandas
 python-dotenv
-chromedriver-autoinstaller
-urllib3
+requests
+selenium
 unicodecsv
+urllib3
