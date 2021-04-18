@@ -1,5 +1,5 @@
 .env
-*.csv
+accounts.csv
 cookies.json
 runtime.log
 *__pycache__*
