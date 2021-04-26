@@ -1,0 +1,370 @@
+
+AAXMM, Beijing
+	CrabNJ, 0.22, Beijing
+	zhanglifan, 0.22, Democracy
+	lh9983, 0.24, Beijing
+	Fabianduduosaka, 0.26, Beijing
+	US93492643, 0.26, Beijing
+Predicted as Beijing. True
+
+adfsbzGnn1EMUxz, Beijing
+	chern_kienyeu, 0.46, Beijing
+	CrabNJ, 0.48, Beijing
+	huangzhixia, 0.48, Beijing
+	lh9983, 0.48, Beijing
+	AAXMM, 0.5, Beijing
+Predicted as Beijing. True
+
+chern_kienyeu, Beijing
+	AAXMM, 0.32, Beijing
+	CrabNJ, 0.32, Beijing
+	freexoyo, 0.32, Beijing
+	dayana_dy, 0.34, Beijing
+	huangzhixia, 0.34, Beijing
+Predicted as Beijing. True
+
+CrabNJ, Beijing
+	AAXMM, 0.22, Beijing
+	US93492643, 0.24, Beijing
+	HuPing1, 0.26, Democracy
+	huangzhixia, 0.28, Beijing
+	rongjian1957, 0.28, Democracy
+Predicted as Beijing. True
+
+DadingLi, Beijing
+	shijianxingzou, 0.26, Democracy
+	HuPing1, 0.28, Democracy
+	ZhouFengSuo, 0.28, Democracy
+	rongjian1957, 0.3, Democracy
+	CrabNJ, 0.32, Beijing
+Predicted as Democracy. False
+
+dayana_dy, Beijing
+	AAXMM, 0.3, Beijing
+	zhanglifan, 0.32, Democracy
+	chern_kienyeu, 0.34, Beijing
+	lh9983, 0.34, Beijing
+	US93492643, 0.34, Beijing
+Predicted as Beijing. True
+
+deheng88, Beijing
+	US93492643, 0.3, Beijing
+	HuPing1, 0.32, Democracy
+	CrabNJ, 0.34, Beijing
+	DadingLi, 0.36, Beijing
+	rongjian1957, 0.36, Democracy
+Predicted as Beijing. True
+
+Fabianduduosaka, Beijing
+	AAXMM, 0.26, Beijing
+	freexoyo, 0.26, Beijing
+	HuPing1, 0.26, Democracy
+	wuzuolai, 0.28, Democracy
+	zhanglifan, 0.28, Democracy
+Predicted as Democracy. False
+
+freexoyo, Beijing
+	Fabianduduosaka, 0.26, Beijing
+	AAXMM, 0.3, Beijing
+	CrabNJ, 0.3, Beijing
+	US93492643, 0.3, Beijing
+	HuPing1, 0.3, Democracy
+Predicted as Beijing. True
+
+huangzhixia, Beijing
+	CrabNJ, 0.28, Beijing
+	AAXMM, 0.3, Beijing
+	HuPing1, 0.32, Democracy
+	chern_kienyeu, 0.34, Beijing
+	US93492643, 0.34, Beijing
+Predicted as Beijing. True
+
+lh9983, Beijing
+	AAXMM, 0.24, Beijing
+	zhanglifan, 0.28, Democracy
+	CrabNJ, 0.3, Beijing
+	GaoFalin, 0.32, Democracy
+	HuPing1, 0.32, Democracy
+Predicted as Democracy. False
+
+PhoenixTVHK, Beijing
+	XinhuaChinese, 0.4, Beijing
+	takungwenwei_hk, 0.52, Beijing
+	caojitw, 0.56, Democracy
+	GaoFalin, 0.58, Democracy
+	MingJingNews, 0.58, Democracy
+Predicted as Democracy. False
+
+takungwenwei_hk, Beijing
+	XinhuaChinese, 0.34, Beijing
+	GaoFalin, 0.4, Democracy
+	zhanglifan, 0.4, Democracy
+	dayana_dy, 0.44, Beijing
+	caojitw, 0.44, Democracy
+Predicted as Democracy. False
+
+XinhuaChinese, Beijing
+	takungwenwei_hk, 0.34, Beijing
+	PhoenixTVHK, 0.4, Beijing
+	GaoFalin, 0.42, Democracy
+	zhanglifan, 0.44, Democracy
+	lh9983, 0.48, Beijing
+Predicted as Beijing. True
+
+US93492643, Beijing
+	CrabNJ, 0.24, Beijing
+	HuPing1, 0.24, Democracy
+	AAXMM, 0.26, Beijing
+	deheng88, 0.3, Beijing
+	freexoyo, 0.3, Beijing
+Predicted as Beijing. True
+
+amnestychinese, Democracy
+	GaoFalin, 0.54, Democracy
+	shijianxingzou, 0.54, Democracy
+	zhanglifan, 0.54, Democracy
+	AAXMM, 0.56, Beijing
+	huangzhixia, 0.56, Beijing
+Predicted as Democracy. True
+
+BobFu4China, Democracy
+	shijianxingzou, 0.22, Democracy
+	yangjianli001, 0.3, Democracy
+	HuPing1, 0.38, Democracy
+	wuzuolai, 0.38, Democracy
+	gaoyu200812, 0.4, Democracy
+Predicted as Democracy. True
+
+caijingxiang, Democracy
+	HuPing1, 0.32, Democracy
+	shijianxingzou, 0.34, Democracy
+	wuzuolai, 0.34, Democracy
+	CrabNJ, 0.36, Beijing
+	HeQinglian, 0.36, Democracy
+Predicted as Democracy. True
+
+CaoChangqing, Democracy
+	wuzuolai, 0.4, Democracy
+	HeQinglian, 0.44, Democracy
+	XiaYeliang, 0.44, Democracy
+	caijingxiang, 0.48, Democracy
+	gaoyu200812, 0.48, Democracy
+Predicted as Democracy. True
+
+caojitw, Democracy
+	shijianxingzou, 0.34, Democracy
+	GaoFalin, 0.36, Democracy
+	caijingxiang, 0.38, Democracy
+	wuzuolai, 0.38, Democracy
+	zhanglifan, 0.38, Democracy
+Predicted as Democracy. True
+
+chenpokong, Democracy
+	milpitas95035, 0.68, Democracy
+	MingJingNews, 0.7, Democracy
+	realjiangfeng, 0.7, Democracy
+	wongkim728, 0.7, Democracy
+	BobFu4China, 0.72, Democracy
+Predicted as Democracy. True
+
+GaoFalin, Democracy
+	zhanglifan, 0.22, Democracy
+	lh9983, 0.32, Beijing
+	wuzuolai, 0.32, Democracy
+	AAXMM, 0.34, Beijing
+	HuPing1, 0.34, Democracy
+Predicted as Democracy. True
+
+gaoyu200812, Democracy
+	AAXMM, 0.34, Beijing
+	GaoFalin, 0.38, Democracy
+	yangjianli001, 0.38, Democracy
+	zhanglifan, 0.38, Democracy
+	CrabNJ, 0.4, Beijing
+Predicted as Democracy. True
+
+HeQinglian, Democracy
+	AAXMM, 0.32, Beijing
+	wuzuolai, 0.32, Democracy
+	CrabNJ, 0.34, Beijing
+	HuPing1, 0.34, Democracy
+	shijianxingzou, 0.34, Democracy
+Predicted as Democracy. True
+
+HuPing1, Democracy
+	wuzuolai, 0.22, Democracy
+	US93492643, 0.24, Beijing
+	AAXMM, 0.26, Beijing
+	CrabNJ, 0.26, Beijing
+	Fabianduduosaka, 0.26, Beijing
+Predicted as Beijing. False
+
+juntaowang, Democracy
+	wuzuolai, 0.22, Democracy
+	HuPing1, 0.26, Democracy
+	Fabianduduosaka, 0.32, Beijing
+	AAXMM, 0.36, Beijing
+	CrabNJ, 0.36, Beijing
+Predicted as Beijing. False
+
+lengshanshipin, Democracy
+	CrabNJ, 0.74, Beijing
+	lh9983, 0.74, Beijing
+	HuPing1, 0.74, Democracy
+	ZhouFengSuo, 0.74, Democracy
+	caijingxiang, 0.76, Democracy
+Predicted as Democracy. True
+
+lianchaohan, Democracy
+	shijianxingzou, 0.36, Democracy
+	yangjianli001, 0.36, Democracy
+	BobFu4China, 0.4, Democracy
+	caojitw, 0.42, Democracy
+	GaoFalin, 0.44, Democracy
+Predicted as Democracy. True
+
+liyiping1911, Democracy
+	HuPing1, 0.32, Democracy
+	wuzuolai, 0.34, Democracy
+	AAXMM, 0.38, Beijing
+	DadingLi, 0.38, Beijing
+	GaoFalin, 0.38, Democracy
+Predicted as Democracy. True
+
+milpitas95035, Democracy
+	shijianxingzou, 0.4, Democracy
+	BobFu4China, 0.46, Democracy
+	lianchaohan, 0.46, Democracy
+	yangjianli001, 0.46, Democracy
+	DadingLi, 0.5, Beijing
+Predicted as Democracy. True
+
+MingJingNews, Democracy
+	takungwenwei_hk, 0.52, Beijing
+	caojitw, 0.52, Democracy
+	XinhuaChinese, 0.54, Beijing
+	lianchaohan, 0.56, Democracy
+	wangdan1989, 0.56, Democracy
+Predicted as Democracy. True
+
+MJTVxchen15, Democracy
+	BobFu4China, 0.7, Democracy
+	shijianxingzou, 0.72, Democracy
+	lianchaohan, 0.74, Democracy
+	wongkim728, 0.74, Democracy
+	yangjianli001, 0.74, Democracy
+Predicted as Democracy. True
+
+realjiangfeng, Democracy
+	milpitas95035, 0.62, Democracy
+	wenzhaocomment, 0.62, Democracy
+	wongkim728, 0.62, Democracy
+	wuzuolai, 0.62, Democracy
+	Fabianduduosaka, 0.64, Beijing
+Predicted as Democracy. True
+
+rongjian1957, Democracy
+	CrabNJ, 0.28, Beijing
+	HuPing1, 0.28, Democracy
+	DadingLi, 0.3, Beijing
+	Fabianduduosaka, 0.32, Beijing
+	US93492643, 0.32, Beijing
+Predicted as Beijing. False
+
+shijianxingzou, Democracy
+	BobFu4China, 0.22, Democracy
+	DadingLi, 0.26, Beijing
+	yangjianli001, 0.26, Democracy
+	HuPing1, 0.28, Democracy
+	wuzuolai, 0.3, Democracy
+Predicted as Democracy. True
+
+tangbaiqiao, Democracy
+	wuzuolai, 0.58, Democracy
+	caijingxiang, 0.62, Democracy
+	HeQinglian, 0.62, Democracy
+	US93492643, 0.64, Beijing
+	shijianxingzou, 0.64, Democracy
+Predicted as Democracy. True
+
+wangdan1989, Democracy
+	wuzuolai, 0.42, Democracy
+	GaoFalin, 0.44, Democracy
+	shijianxingzou, 0.44, Democracy
+	yangjianli001, 0.44, Democracy
+	BobFu4China, 0.46, Democracy
+Predicted as Democracy. True
+
+wenzhaocomment, Democracy
+	AAXMM, 0.36, Beijing
+	HuPing1, 0.36, Democracy
+	CrabNJ, 0.38, Beijing
+	shijianxingzou, 0.38, Democracy
+	XiaYeliang, 0.38, Democracy
+Predicted as Democracy. True
+
+wlixiong, Democracy
+	wuzuolai, 0.38, Democracy
+	HuPing1, 0.4, Democracy
+	juntaowang, 0.42, Democracy
+	Fabianduduosaka, 0.46, Beijing
+	rongjian1957, 0.46, Democracy
+Predicted as Democracy. True
+
+wongkim728, Democracy
+	wenzhaocomment, 0.56, Democracy
+	XiaYeliang, 0.56, Democracy
+	BobFu4China, 0.58, Democracy
+	caojitw, 0.58, Democracy
+	shijianxingzou, 0.58, Democracy
+Predicted as Democracy. True
+
+wuerkaixi, Democracy
+	wuzuolai, 0.36, Democracy
+	HuPing1, 0.38, Democracy
+	AAXMM, 0.42, Beijing
+	US93492643, 0.42, Beijing
+	juntaowang, 0.42, Democracy
+Predicted as Democracy. True
+
+wuzuolai, Democracy
+	HuPing1, 0.22, Democracy
+	juntaowang, 0.22, Democracy
+	Fabianduduosaka, 0.28, Beijing
+	CrabNJ, 0.3, Beijing
+	US93492643, 0.3, Beijing
+Predicted as Beijing. False
+
+XiaYeliang, Democracy
+	HuPing1, 0.28, Democracy
+	AAXMM, 0.34, Beijing
+	DadingLi, 0.34, Beijing
+	Fabianduduosaka, 0.34, Beijing
+	CrabNJ, 0.36, Beijing
+Predicted as Beijing. False
+
+yangjianli001, Democracy
+	shijianxingzou, 0.26, Democracy
+	BobFu4China, 0.3, Democracy
+	zhanglifan, 0.32, Democracy
+	GaoFalin, 0.34, Democracy
+	HuPing1, 0.36, Democracy
+Predicted as Democracy. True
+
+zhanglifan, Democracy
+	AAXMM, 0.22, Beijing
+	GaoFalin, 0.22, Democracy
+	HuPing1, 0.26, Democracy
+	Fabianduduosaka, 0.28, Beijing
+	lh9983, 0.28, Beijing
+Predicted as Beijing. False
+
+ZhouFengSuo, Democracy
+	DadingLi, 0.28, Beijing
+	shijianxingzou, 0.34, Democracy
+	rongjian1957, 0.4, Democracy
+	CrabNJ, 0.42, Beijing
+	BobFu4China, 0.42, Democracy
+Predicted as Democracy. True
+
+True: 35; False: 11
