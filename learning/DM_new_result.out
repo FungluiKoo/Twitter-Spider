@@ -1,0 +1,248 @@
+amnestychinese
+	ZhouFengSuo	\0.0828	Correct+1
+	wuzuolai	\0.0695	Correct+1
+	yangjianli001	\0.0688	Correct+1
+	GaoFalin	\0.0616	Correct+1
+	shijianxingzou	\0.0576	Correct+1
+Overall Correct
+
+BobFu4China
+	shijianxingzou	\0.1299	Correct+1
+	ZhouFengSuo	\0.1267	Correct+1
+	wuzuolai	\0.1212	Correct+1
+	DadingLi	\0.0949	Wrong+1
+	yangjianli001	\0.0933	Correct+1
+Overall Correct
+
+caijingxiang
+	caojitw	\0.2240	Correct+1
+	CrabNJ	\0.1470	Wrong+1
+	HeQinglian	\0.1344	Correct+1
+	shijianxingzou	\0.1232	Correct+1
+	US93492643	\0.1063	Wrong+1
+Overall Correct
+
+CaoChangqing
+	HeQinglian	\0.2899	Correct+1
+	shijianxingzou	\0.2009	Correct+1
+	wuzuolai	\0.1711	Correct+1
+	HuPing1	\0.1359	Correct+1
+	CrabNJ	\0.1022	Wrong+1
+Overall Correct
+
+caojitw
+	caijingxiang	\0.2205	Correct+1
+	HeQinglian	\0.1488	Correct+1
+	CrabNJ	\0.1363	Wrong+1
+	shijianxingzou	\0.1236	Correct+1
+	wuzuolai	\0.1177	Correct+1
+Overall Correct
+
+chenpokong
+	wangdan1989	\0.0879	Correct+1
+	ZhouFengSuo	\0.0349	Correct+1
+	rongjian1957	\0.0330	Correct+1
+	wenzhaocomment	\0.0316	Correct+1
+	wongkim728	\0.0285	Correct+1
+Overall Correct
+
+GaoFalin
+	MingJingNews	\0.1768	Correct+1
+	HuPing1	\0.1584	Correct+1
+	wuzuolai	\0.1459	Correct+1
+	HeQinglian	\0.1394	Correct+1
+	CrabNJ	\0.1311	Wrong+1
+Overall Correct
+
+gaoyu200812
+	rongjian1957	\0.0920	Correct+1
+	wuzuolai	\0.0849	Correct+1
+	GaoFalin	\0.0777	Correct+1
+	HuPing1	\0.0768	Correct+1
+	CrabNJ	\0.0750	Wrong+1
+Overall Correct
+
+HeQinglian
+	CaoChangqing	\0.2837	Correct+1
+	shijianxingzou	\0.2716	Correct+1
+	wuzuolai	\0.2686	Correct+1
+	HuPing1	\0.2345	Correct+1
+	CrabNJ	\0.2077	Wrong+1
+Overall Correct
+
+HuPing1
+	wuzuolai	\0.2330	Correct+1
+	HeQinglian	\0.2313	Correct+1
+	CrabNJ	\0.1745	Wrong+1
+	shijianxingzou	\0.1733	Correct+1
+	juntaowang	\0.1731	Correct+1
+Overall Correct
+
+juntaowang
+	wuzuolai	\0.1966	Correct+1
+	HeQinglian	\0.1885	Correct+1
+	HuPing1	\0.1765	Correct+1
+	Fabianduduosaka	\0.1524	Wrong+1
+	US93492643	\0.1391	Wrong+1
+Overall Correct
+
+lengshanshipin
+	caijingxiang	\0.0714	Correct+1
+	caojitw	\0.0399	Correct+1
+	adfsbzGnn1EMUxz	\0.0325	Wrong+1
+	MingJingNews	\0.0266	Correct+1
+	GaoFalin	\0.0228	Correct+1
+Overall Correct
+
+lianchaohan
+	shijianxingzou	\0.1759	Correct+1
+	yangjianli001	\0.1630	Correct+1
+	DadingLi	\0.1466	Wrong+1
+	wuzuolai	\0.1346	Correct+1
+	ZhouFengSuo	\0.1228	Correct+1
+Overall Correct
+
+liyiping1911
+	milpitas95035	\0.2483	Correct+1
+	wuzuolai	\0.0583	Correct+1
+	juntaowang	\0.0557	Correct+1
+	HeQinglian	\0.0555	Correct+1
+	CrabNJ	\0.0522	Wrong+1
+Overall Correct
+
+milpitas95035
+	liyiping1911	\0.2547	Correct+1
+	shijianxingzou	\0.1531	Correct+1
+	yangjianli001	\0.1155	Correct+1
+	ZhouFengSuo	\0.1106	Correct+1
+	DadingLi	\0.1088	Wrong+1
+Overall Correct
+
+MingJingNews
+	MJTVxchen15	\0.2053	Correct+1
+	GaoFalin	\0.1705	Correct+1
+	HuPing1	\0.1401	Correct+1
+	takungwenwei_hk	\0.1400	Wrong+1
+	XinhuaChinese	\0.1114	Wrong+1
+Overall Correct
+
+MJTVxchen15
+	MingJingNews	\0.1844	Correct+1
+	HuPing1	\0.0963	Correct+1
+	ZhouFengSuo	\0.0500	Correct+1
+	shijianxingzou	\0.0451	Correct+1
+	DadingLi	\0.0363	Wrong+1
+Overall Correct
+
+realjiangfeng
+	milpitas95035	\0.0344	Correct+1
+	wongkim728	\0.0330	Correct+1
+	shijianxingzou	\0.0299	Correct+1
+	HuPing1	\0.0281	Correct+1
+	wenzhaocomment	\0.0228	Correct+1
+Overall Correct
+
+rongjian1957
+	wuzuolai	\0.1095	Correct+1
+	CrabNJ	\0.0998	Wrong+1
+	gaoyu200812	\0.0906	Correct+1
+	US93492643	\0.0899	Wrong+1
+	HeQinglian	\0.0896	Correct+1
+Overall Correct
+
+shijianxingzou
+	HeQinglian	\0.3018	Correct+1
+	DadingLi	\0.2883	Wrong+1
+	wuzuolai	\0.2619	Correct+1
+	CaoChangqing	\0.2204	Correct+1
+	ZhouFengSuo	\0.2176	Correct+1
+Overall Correct
+
+tangbaiqiao
+	shijianxingzou	\0.0491	Correct+1
+	yangjianli001	\0.0469	Correct+1
+	HeQinglian	\0.0467	Correct+1
+	wuzuolai	\0.0422	Correct+1
+	HuPing1	\0.0305	Correct+1
+Overall Correct
+
+wangdan1989
+	wuzuolai	\0.0947	Correct+1
+	HuPing1	\0.0919	Correct+1
+	shijianxingzou	\0.0910	Correct+1
+	chenpokong	\0.0877	Correct+1
+	HeQinglian	\0.0864	Correct+1
+Overall Correct
+
+wenzhaocomment
+	shijianxingzou	\0.0754	Correct+1
+	HeQinglian	\0.0749	Correct+1
+	wuzuolai	\0.0718	Correct+1
+	HuPing1	\0.0693	Correct+1
+	US93492643	\0.0525	Wrong+1
+Overall Correct
+
+wlixiong
+	juntaowang	\0.0796	Correct+1
+	HeQinglian	\0.0728	Correct+1
+	wuzuolai	\0.0669	Correct+1
+	HuPing1	\0.0626	Correct+1
+	CrabNJ	\0.0480	Wrong+1
+Overall Correct
+
+wongkim728
+	shijianxingzou	\0.0374	Correct+1
+	CrabNJ	\0.0371	Wrong+1
+	caijingxiang	\0.0345	Correct+1
+	milpitas95035	\0.0327	Correct+1
+	HeQinglian	\0.0317	Correct+1
+Overall Correct
+
+wuerkaixi
+	juntaowang	\0.0773	Correct+1
+	HeQinglian	\0.0706	Correct+1
+	wuzuolai	\0.0689	Correct+1
+	HuPing1	\0.0680	Correct+1
+	Fabianduduosaka	\0.0656	Wrong+1
+Overall Correct
+
+wuzuolai
+	HeQinglian	\0.2795	Correct+1
+	shijianxingzou	\0.2421	Correct+1
+	HuPing1	\0.2384	Correct+1
+	CrabNJ	\0.2050	Wrong+1
+	juntaowang	\0.2006	Correct+1
+Overall Correct
+
+XiaYeliang
+	HeQinglian	\0.0729	Correct+1
+	MingJingNews	\0.0713	Correct+1
+	wuzuolai	\0.0587	Correct+1
+	shijianxingzou	\0.0529	Correct+1
+	CrabNJ	\0.0508	Wrong+1
+Overall Correct
+
+yangjianli001
+	shijianxingzou	\0.1974	Correct+1
+	HuPing1	\0.1565	Correct+1
+	DadingLi	\0.1557	Wrong+1
+	lianchaohan	\0.1554	Correct+1
+	ZhouFengSuo	\0.1516	Correct+1
+Overall Correct
+
+zhanglifan
+	HuPing1	\0.1822	Correct+1
+	CrabNJ	\0.1748	Wrong+1
+	HeQinglian	\0.1717	Correct+1
+	wuzuolai	\0.1588	Correct+1
+	US93492643	\0.1528	Wrong+1
+Overall Correct
+
+ZhouFengSuo
+	DadingLi	\0.2189	Wrong+1
+	shijianxingzou	\0.2150	Correct+1
+	wuzuolai	\0.1715	Correct+1
+	yangjianli001	\0.1625	Correct+1
+	US93492643	\0.1382	Wrong+1
+Overall Correct
+

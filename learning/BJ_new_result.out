@@ -1,0 +1,120 @@
+AAXMM
+	US93492643	\0.2342	Correct+1
+	CrabNJ	\0.2147	Correct+1
+	shijianxingzou	\0.1641	Wrong+1
+	huangzhixia	\0.1616	Correct+1
+	wuzuolai	\0.1557	Wrong+1
+Overall Correct
+
+adfsbzGnn1EMUxz
+	US93492643	\0.0730	Correct+1
+	CrabNJ	\0.0616	Correct+1
+	AAXMM	\0.0594	Correct+1
+	XinhuaChinese	\0.0577	Correct+1
+	dayana_dy	\0.0451	Correct+1
+Overall Correct
+
+chern_kienyeu
+	CrabNJ	\0.1051	Correct+1
+	US93492643	\0.1044	Correct+1
+	huangzhixia	\0.0890	Correct+1
+	HeQinglian	\0.0873	Wrong+1
+	AAXMM	\0.0830	Correct+1
+Overall Correct
+
+CrabNJ
+	US93492643	\0.2741	Correct+1
+	AAXMM	\0.2222	Correct+1
+	HeQinglian	\0.2188	Wrong+1
+	wuzuolai	\0.2079	Wrong+1
+	DadingLi	\0.1995	Correct+1
+Overall Correct
+
+DadingLi
+	shijianxingzou	\0.2841	Wrong+1
+	ZhouFengSuo	\0.2183	Wrong+1
+	CrabNJ	\0.2104	Correct+1
+	US93492643	\0.2002	Correct+1
+	wuzuolai	\0.1869	Wrong+1
+Overall Wrong
+
+dayana_dy
+	takungwenwei_hk	\0.4142	Correct+1
+	XinhuaChinese	\0.2022	Correct+1
+	AAXMM	\0.1492	Correct+1
+	US93492643	\0.1381	Correct+1
+	CrabNJ	\0.1361	Correct+1
+Overall Correct
+
+deheng88
+	US93492643	\0.1138	Correct+1
+	takungwenwei_hk	\0.0977	Correct+1
+	HeQinglian	\0.0830	Wrong+1
+	dayana_dy	\0.0744	Correct+1
+	wuzuolai	\0.0704	Wrong+1
+Overall Correct
+
+Fabianduduosaka
+	US93492643	\0.1779	Correct+1
+	CrabNJ	\0.1756	Correct+1
+	wuzuolai	\0.1609	Wrong+1
+	juntaowang	\0.1532	Wrong+1
+	HeQinglian	\0.1512	Wrong+1
+Overall Wrong
+
+freexoyo
+	CrabNJ	\0.1533	Correct+1
+	US93492643	\0.1502	Correct+1
+	Fabianduduosaka	\0.1292	Correct+1
+	AAXMM	\0.1152	Correct+1
+	wuzuolai	\0.1075	Wrong+1
+Overall Correct
+
+huangzhixia
+	AAXMM	\0.1588	Correct+1
+	US93492643	\0.1526	Correct+1
+	CrabNJ	\0.1413	Correct+1
+	wuzuolai	\0.1146	Wrong+1
+	XinhuaChinese	\0.1050	Correct+1
+Overall Correct
+
+lh9983
+	CrabNJ	\0.0436	Correct+1
+	US93492643	\0.0428	Correct+1
+	AAXMM	\0.0366	Correct+1
+	XinhuaChinese	\0.0345	Correct+1
+	wuzuolai	\0.0254	Wrong+1
+Overall Correct
+
+PhoenixTVHK
+	XinhuaChinese	\0.1498	Correct+1
+	takungwenwei_hk	\0.0937	Correct+1
+	dayana_dy	\0.0580	Correct+1
+	CrabNJ	\0.0492	Correct+1
+	MingJingNews	\0.0487	Wrong+1
+Overall Correct
+
+takungwenwei_hk
+	dayana_dy	\0.4033	Correct+1
+	XinhuaChinese	\0.3283	Correct+1
+	MingJingNews	\0.1436	Wrong+1
+	CrabNJ	\0.1330	Correct+1
+	HuPing1	\0.1223	Wrong+1
+Overall Correct
+
+US93492643
+	CrabNJ	\0.2697	Correct+1
+	AAXMM	\0.2345	Correct+1
+	HeQinglian	\0.1969	Wrong+1
+	wuzuolai	\0.1910	Wrong+1
+	DadingLi	\0.1880	Correct+1
+Overall Correct
+
+XinhuaChinese
+	takungwenwei_hk	\0.3380	Correct+1
+	dayana_dy	\0.2028	Correct+1
+	PhoenixTVHK	\0.1782	Correct+1
+	CrabNJ	\0.1675	Correct+1
+	US93492643	\0.1499	Correct+1
+Overall Correct
+
