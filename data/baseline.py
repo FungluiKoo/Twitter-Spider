@@ -3,7 +3,7 @@
 
 # Usage: python baseline.py account-beijing.csv account-democracy.csv test-beijing.csv test-democracy.csv
 
-TOP_N = 50
+TOP_N = 25
 K = 5
 OUT_FILE_NAME = "baseline-result.txt"
 
@@ -25,7 +25,8 @@ def get_distances(a: set, b: set) -> float:
     return result
 
 
-accounts = list()
+accounts_train = list()
+accounts_test = list()
 accounts_beijing = list()
 accounts_democracy = list()
 
@@ -33,40 +34,67 @@ with open(file=file_beijing, mode="r", encoding="utf-8") as f:
     for line in f:
         account = line.split("twitter.com/")[-1].strip()
         if len(account)>1:
-            accounts.append(account)
+            accounts_train.append(account)
             accounts_beijing.append(account)
 with open(file=file_democracy, mode="r", encoding="utf-8") as f:
     for line in f:
         account = line.split("twitter.com/")[-1].strip()
         if len(account)>1:
-            accounts.append(account)
+            accounts_train.append(account)
+            accounts_democracy.append(account)
+with open(file=test_beijing, mode="r", encoding="utf-8") as f:
+    for line in f:
+        account = line.split("twitter.com/")[-1].strip()
+        if len(account)>1:
+            accounts_test.append(account)
+            accounts_beijing.append(account)
+with open(file=test_democracy, mode="r", encoding="utf-8") as f:
+    for line in f:
+        account = line.split("twitter.com/")[-1].strip()
+        if len(account)>1:
+            accounts_test.append(account)
             accounts_democracy.append(account)
 
 words = dict()
 distances = dict()
 
-for account in accounts:
+for account in accounts_test:
     file_name = account + "_highest.txt"
     s = set()
     with open(file=file_name, mode="r", encoding="utf-8") as fi:
         for row in fi:
+            if len(s) >= TOP_N:
+                break
             word = row.rstrip()
             if word != "":
                 s.add(word)
     words[account] = s
     distances[account] = dict()
 
-for i in range(len(accounts)-1):
-    for j in range(i+1,len(accounts)):
-        value = get_distances(words[accounts[i]], words[accounts[j]])
-        distances[accounts[i]][accounts[j]] = value
-        distances[accounts[j]][accounts[i]] = value
+for account in accounts_train:
+    file_name = account + "_highest.txt"
+    s = set()
+    with open(file=file_name, mode="r", encoding="utf-8") as fi:
+        for row in fi:
+            if len(s) >= TOP_N:
+                break
+            word = row.rstrip()
+            if word != "":
+                s.add(word)
+    words[account] = s
+
+
+for i in range(len(accounts_test)):
+    for j in range(len(accounts_train)):
+        value = get_distances(words[accounts_test[i]], words[accounts_train[j]])
+        distances[accounts_test[i]][accounts_train[j]] = value
+
 
 with open(file=OUT_FILE_NAME, mode="w", encoding="utf-8") as fo:
     result_cnt = {"True":0, "False":0}
-    for account in accounts:
+    for account in accounts_test:
         account_type = "Beijing" if account in accounts_beijing else "Democracy"
-        fo.write(f"\n{account}, {account_type}\n")
+        fo.write(f"\n{account} should be {account_type}\n")
         itemls=sorted(list(distances[account].items()),key=lambda x:x[1], reverse=False)
         neighbor_beijing_cnt = 0
         for i in range(K):

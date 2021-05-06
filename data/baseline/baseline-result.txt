@@ -1,0 +1,170 @@
+
+AAXMM0 should be Beijing
+	US934926433, 0.16, Beijing
+	huangzhixia1, 0.2, Beijing
+	huangzhixia2, 0.2, Beijing
+	US934926431, 0.2, Beijing
+	US934926432, 0.2, Beijing
+Predicted as Beijing. True
+
+AAXMM1 should be Beijing
+	US934926432, 0.16, Beijing
+	HuPing11, 0.16, Democracy
+	DadingLi1, 0.2, Beijing
+	freexoyo, 0.2, Beijing
+	huangzhixia1, 0.2, Beijing
+Predicted as Beijing. True
+
+AAXMM2 should be Beijing
+	US934926431, 0.2, Beijing
+	US934926433, 0.2, Beijing
+	huangzhixia2, 0.24, Beijing
+	US934926432, 0.24, Beijing
+	freexoyo, 0.28, Beijing
+Predicted as Beijing. True
+
+adfsbzGnn1EMUxz should be Beijing
+	freexoyo, 0.24, Beijing
+	huangzhixia3, 0.28, Beijing
+	US934926433, 0.28, Beijing
+	DadingLi1, 0.32, Beijing
+	Fabianduduosaka1, 0.32, Beijing
+Predicted as Beijing. True
+
+chern_kienyeu should be Beijing
+	Fabianduduosaka1, 0.24, Beijing
+	Fabianduduosaka2, 0.24, Beijing
+	Fabianduduosaka3, 0.24, Beijing
+	freexoyo, 0.24, Beijing
+	DadingLi1, 0.28, Beijing
+Predicted as Beijing. True
+
+CrabNJ0 should be Beijing
+	huangzhixia2, 0.2, Beijing
+	US934926431, 0.24, Beijing
+	US934926432, 0.24, Beijing
+	US934926433, 0.24, Beijing
+	HuPing11, 0.24, Democracy
+Predicted as Beijing. True
+
+CrabNJ1 should be Beijing
+	rongjian1957, 0.12, Democracy
+	US934926432, 0.16, Beijing
+	huangzhixia2, 0.2, Beijing
+	US934926431, 0.2, Beijing
+	zhanglifan0, 0.2, Democracy
+Predicted as Beijing. True
+
+CrabNJ2 should be Beijing
+	US934926433, 0.12, Beijing
+	huangzhixia3, 0.2, Beijing
+	lh9983, 0.2, Beijing
+	US934926431, 0.2, Beijing
+	freexoyo, 0.24, Beijing
+Predicted as Beijing. True
+
+CrabNJ3 should be Beijing
+	huangzhixia2, 0.2, Beijing
+	rongjian1957, 0.2, Democracy
+	shijianxingzou1, 0.2, Democracy
+	Fabianduduosaka0, 0.24, Beijing
+	Fabianduduosaka1, 0.24, Beijing
+Predicted as Beijing. True
+
+DadingLi0 should be Beijing
+	DadingLi1, 0.08, Beijing
+	DadingLi2, 0.2, Beijing
+	Fabianduduosaka1, 0.2, Beijing
+	US934926432, 0.2, Beijing
+	shijianxingzou1, 0.2, Democracy
+Predicted as Beijing. True
+
+amnestychinese should be Democracy
+	yangjianli001, 0.44, Democracy
+	zhanglifan1, 0.44, Democracy
+	Fabianduduosaka1, 0.48, Beijing
+	Fabianduduosaka3, 0.48, Beijing
+	huangzhixia1, 0.48, Beijing
+Predicted as Beijing. False
+
+BobFu4China should be Democracy
+	zhanglifan1, 0.2, Democracy
+	zhanglifan0, 0.24, Democracy
+	huangzhixia0, 0.28, Beijing
+	huangzhixia3, 0.28, Beijing
+	shijianxingzou0, 0.28, Democracy
+Predicted as Democracy. True
+
+caijingxiang should be Democracy
+	US934926433, 0.32, Beijing
+	XiaYeliang, 0.32, Democracy
+	zhanglifan0, 0.32, Democracy
+	zhanglifan1, 0.32, Democracy
+	huangzhixia0, 0.36, Beijing
+Predicted as Democracy. True
+
+CaoChangqing should be Democracy
+	Fabianduduosaka0, 0.28, Beijing
+	shijianxingzou0, 0.28, Democracy
+	shijianxingzou1, 0.28, Democracy
+	Fabianduduosaka1, 0.32, Beijing
+	Fabianduduosaka2, 0.32, Beijing
+Predicted as Beijing. False
+
+caojitw should be Democracy
+	zhanglifan1, 0.32, Democracy
+	huangzhixia0, 0.36, Beijing
+	huangzhixia1, 0.36, Beijing
+	huangzhixia3, 0.36, Beijing
+	shijianxingzou1, 0.36, Democracy
+Predicted as Beijing. False
+
+chenpokong should be Democracy
+	realjiangfeng, 0.76, Democracy
+	MingJingNews0, 0.84, Democracy
+	MingJingNews1, 0.84, Democracy
+	lh9983, 0.88, Beijing
+	takungwenwei_hk1, 0.88, Beijing
+Predicted as Democracy. True
+
+GaoFalin should be Democracy
+	XiaYeliang, 0.2, Democracy
+	zhanglifan1, 0.2, Democracy
+	shijianxingzou0, 0.24, Democracy
+	wuzuolai1, 0.24, Democracy
+	zhanglifan0, 0.24, Democracy
+Predicted as Democracy. True
+
+gaoyu200812 should be Democracy
+	zhanglifan1, 0.16, Democracy
+	zhanglifan0, 0.2, Democracy
+	huangzhixia1, 0.24, Beijing
+	HuPing11, 0.24, Democracy
+	wuzuolai0, 0.24, Democracy
+Predicted as Democracy. True
+
+HeQinglian0 should be Democracy
+	zhanglifan1, 0.16, Democracy
+	zhanglifan0, 0.2, Democracy
+	Fabianduduosaka0, 0.24, Beijing
+	Fabianduduosaka1, 0.24, Beijing
+	Fabianduduosaka2, 0.24, Beijing
+Predicted as Beijing. False
+
+HeQinglian1 should be Democracy
+	Fabianduduosaka1, 0.2, Beijing
+	DadingLi1, 0.24, Beijing
+	Fabianduduosaka0, 0.24, Beijing
+	Fabianduduosaka2, 0.24, Beijing
+	Fabianduduosaka3, 0.24, Beijing
+Predicted as Beijing. False
+
+HuPing10 should be Democracy
+	HuPing11, 0.08, Democracy
+	zhanglifan0, 0.12, Democracy
+	zhanglifan1, 0.12, Democracy
+	Fabianduduosaka2, 0.2, Beijing
+	huangzhixia1, 0.2, Beijing
+Predicted as Democracy. True
+
+True: 16; False: 5
