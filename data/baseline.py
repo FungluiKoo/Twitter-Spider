@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # encoding=utf-8
 
-# Usage: python baseline.py account-beijing.csv account-democracy.csv
+# Usage: python baseline.py account-beijing.csv account-democracy.csv test-beijing.csv test-democracy.csv
 
 TOP_N = 50
 K = 5
@@ -11,6 +11,8 @@ import sys
 
 file_beijing = sys.argv[1]
 file_democracy = sys.argv[2]
+test_beijing = sys.argv[3]
+test_democracy = sys.argv[4]
 
 
 def get_distances(a: set, b: set) -> float:
